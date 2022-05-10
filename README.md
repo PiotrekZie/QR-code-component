@@ -19,7 +19,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
+- Desktop Ver.
 ![Desktop Ver.](./screenshot.jpeg)
+
+- Mobile(375px) Ver.
 ![Mobile(375px) Ver.](./screenshot1.jpeg)
 
 ## My process
