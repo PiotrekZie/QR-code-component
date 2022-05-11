@@ -29,6 +29,7 @@ body {
 }
 .bold {
     font-weight: 700;
+    font-size: 15px;
     text-align: center;
     color: hsl(218, 44%, 22%);
 }
